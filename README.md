@@ -1,0 +1,2 @@
+# Andriod-Authenticity-Prediction
+In these project, the problem statement was to build a prediction model that would detect Malware Apps given it's features like Name, Package, Rating, Various Permission that it requires upon installation. Our approach was to understand the domain, clean the dataset, perform the EDA for better understanding of the dataset, try out NLP Modelling for Text Columns, build the final model, evaluate and improve accuracy and  identify the future scopes.
